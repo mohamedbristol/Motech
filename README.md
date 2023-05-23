@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mo! <br/><a href="https://github.com/mohamedbristol">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Saul, an <a href="https://linkedin.com/in/">IT Professional</a>😄</h1>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
