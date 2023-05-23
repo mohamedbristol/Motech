@@ -1,4 +1,4 @@
-<h1>Hi, I'm MO, an <a href="https://www.linkedin.com/in/mohamed-hassan-2859352a/> IT Professional</a>☺</h1>
+<h1>Hi, I'm Mohamed, an <a href="https://linkedin.com/in/Jas'Mohamed Smith">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,5 +15,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/motech2023/
-[linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a/
+[instagram]: https://www.instagram.com/plustosback
+[linkedin]: https://linkedin.com/Jas'QuonSmith
