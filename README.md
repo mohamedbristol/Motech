@@ -22,4 +22,4 @@
 
 [youtube]: https://www.youtube.com/channel/UC1ZCmsQbhH7onBNEt-LHUAg
 [instagram]: https://www.instagram.com/motech2023
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a
