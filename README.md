@@ -8,10 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mohamedbristol/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/mohamedbristol/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mohamedbristol/azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/mohamedbristol/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/sfariasjr/Building-Intuition-for-DNS)
-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mohamedbristol/azure-network-protocols
+   - [Network File Shares and Permissions](https://github.com/mohamedbristol/Network-File-Shares-and-Permissions/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/mohamedbristol/Building-Intuition-for-DNS/Building-Intuition-for-DNS)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
