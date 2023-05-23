@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed , an <a href="https://linkedin.com/in/">IT Professional</a>😄</h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
